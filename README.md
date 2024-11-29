@@ -1,5 +1,12 @@
 # Graph Representation Learning
-Lecturer: [Ismail Ilkan Ceylan](https://www.cs.ox.ac.uk/people/ismaililkan.ceylan/)
 
-This repo contains my notes for the Oxford Department of Computer Science Part C course Graph Reperesentation Learning.
-This is an advanced course on machine learning with relational data, focusing on the recent advances in the field of graph representation learning. The goal is to provide a systematic coverage of the fundamentals and foundations of graph representation learning. The course will introduce the definitions of the relevant machine learning models (e.g., graph neural networks), discuss their mathematical underpinnings, formally study their properties (e.g., relational inductive bias, expressive power), and demonstrate ways to effectively develop and train such models.
+This repository contains the my attempted practicals for the Oxford Department of Computer Science Part C course [Graph Reperesentation Learning](https://www.cs.ox.ac.uk/teaching/courses/2024-2025/grl/) lectured by [Ismail Ilkan Ceylan](https://www.cs.ox.ac.uk/people/ismaililkan.ceylan/) in Michaelmas 2024.
+- Practical 1: Implementation of knowledge graph embeddings (TransE, RotatE)
+  - Dataset: [Nations](https://github.com/ZhenfengLei/KGDatasets/tree/master/Nations)
+- Practical 2: Implementation of a base GNN from scratch for node classification
+  - Dataset: [Cora](https://pytorch-geometric.readthedocs.io/en/stable/generated/torch_geometric.datasets.CitationFull.html#torch_geometric.datasets.CitationFull)
+- Practical 3: Implementation of graph mini-batching and graph pooling for graph classification
+  - Dataset: [TUDataset](https://chrsmrrs.github.io/datasets/)
+- Practical 4: Over-Smoothing in deep GNNs
+  - Dataset: [Cora](https://pytorch-geometric.readthedocs.io/en/stable/generated/torch_geometric.datasets.CitationFull.html#torch_geometric.datasets.CitationFull)
+- Practical 5: Implementation of $1$-WL hash algorithm
