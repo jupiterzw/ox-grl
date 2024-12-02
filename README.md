@@ -1,6 +1,6 @@
 # Graph Representation Learning
 
-This repository contains the my attempted practicals for the Oxford Department of Computer Science Part C course [Graph Reperesentation Learning](https://www.cs.ox.ac.uk/teaching/courses/2024-2025/grl/) lectured by [Ismail Ilkan Ceylan](https://www.cs.ox.ac.uk/people/ismaililkan.ceylan/) in Michaelmas 2024.
+This repository contains my attempted practicals for the Oxford Department of Computer Science Part C course [Graph Reperesentation Learning](https://www.cs.ox.ac.uk/teaching/courses/2024-2025/grl/) lectured by [Ismail Ilkan Ceylan](https://www.cs.ox.ac.uk/people/ismaililkan.ceylan/) in Michaelmas 2024.
 - Practical 1: Implementation of knowledge graph embeddings (TransE, RotatE)
   - Dataset: [Nations](https://github.com/ZhenfengLei/KGDatasets/tree/master/Nations)
 - Practical 2: Implementation of a base GNN from scratch for node classification
@@ -10,3 +10,4 @@ This repository contains the my attempted practicals for the Oxford Department o
 - Practical 4: Over-Smoothing in deep GNNs
   - Dataset: [Cora](https://pytorch-geometric.readthedocs.io/en/stable/generated/torch_geometric.datasets.CitationFull.html#torch_geometric.datasets.CitationFull)
 - Practical 5: Implementation of $1$-WL hash algorithm
+  - Dataset: Cycles $\mathcal{C}_n$ and disjoint union of two cycles $\mathcal{D}_{n,i}$.
