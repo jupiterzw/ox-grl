@@ -10,4 +10,7 @@ This repository contains my attempted practicals for the Oxford Department of Co
 - Practical 4: Over-Smoothing in deep GNNs
   - Dataset: [Cora](https://pytorch-geometric.readthedocs.io/en/stable/generated/torch_geometric.datasets.CitationFull.html#torch_geometric.datasets.CitationFull)
 - Practical 5: Implementation of $1$-WL hash algorithm
-  - Dataset: Cycles $\mathcal{C}_n$ and disjoint union of two cycles $\mathcal{D}_{n,i}$.
+  - Dataset: Cycles 
+  $\mathcal{C}_{n}$ 
+  and disjoint union of two cycles 
+  $\mathcal{D}_{n,i}$.
